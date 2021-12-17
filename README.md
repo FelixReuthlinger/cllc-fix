@@ -9,6 +9,11 @@ CLLC update, those files get wiped again.
 
 If you ever wondered, why you never pickup Ooze, this is the reason ;)
 
+## Changelog
+
+* 1.0.1 -> fix config file name
+* 1.0.0 -> initial version
+
 ## Contact
 
 * https://github.com/FelixReuthlinger/cllc-fix
